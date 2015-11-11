@@ -1,0 +1,23 @@
+name: Office
+favicon: null
+layout_spectrum: 0.3665249007754028
+typography_spectrum: 0.11455000238493085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.39640945848077536
+  lightness: 0.8588559806812555
+  saturation: 0.030807788716629148
+  rhythmicContrast: 0.2089783742558211
+purpose: []
